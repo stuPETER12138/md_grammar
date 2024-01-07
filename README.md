@@ -1,2 +1,2 @@
 # md_grammar
-something useful for markdown.
+something useful for `markdown`.
