@@ -1,3 +1,3 @@
 # md_grammar
 
-something **useful** for `markdwon learning`.
+something **useful** for `markdwon learning` with _writerside_.
